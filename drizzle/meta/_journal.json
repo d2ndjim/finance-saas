@@ -15,6 +15,13 @@
       "when": 1721135929040,
       "tag": "0001_abnormal_ravenous",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1721927665375,
+      "tag": "0002_lucky_hitman",
+      "breakpoints": true
     }
   ]
 }
